@@ -1,0 +1,50 @@
+body{
+    scroll-behavior: smooth;
+}
+
+
+#marq{
+    background-color: black;
+    font-size: 14px;
+}
+
+#contact{
+    background-color: #EFEFEF;
+    font-size: 11px;
+    letter-spacing: 2px;
+}
+
+#navbarNav{
+    font-size: 14px;
+    letter-spacing: 1px;
+
+}
+
+
+#shopnow{
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    border-radius: 0px;
+    font-size: 18px;
+    font-family: ubuntu;
+    text-decoration: none;
+
+}
+
+#caros{
+    margin-top:-16px;
+    
+}
+
+#caroimg{
+    position: relative;
+}
+
+
+
+nav li a:hover{
+    background-color: red;
+    border-radius: 20px;
+    color: white;
+}
